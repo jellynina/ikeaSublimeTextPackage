@@ -1,0 +1,110 @@
+{
+	"auto_complete_visible": true,
+	"color_scheme": "Packages/Tomorrow_Night_Eighties.tmTheme",
+	"entensions":
+	[
+		"CSS3"
+	],
+	"font_face": "Source Code Pro Light",
+	"font_options":
+	[
+		"no_bold"
+	],
+	"font_size": 16.0,
+	"ignored_packages":
+	[
+		{
+			"command": "toggle_side_bar",
+			"keys":
+			[
+				"super+k",
+				"super+b"
+			]
+		},
+		{
+			"command": "build",
+			"keys":
+			[
+				"f7"
+			]
+		},
+		{
+			"command": "upper_case",
+			"keys":
+			[
+				"super+u"
+			]
+		},
+		{
+			"command": "lower_case",
+			"keys":
+			[
+				"super+l"
+			]
+		},
+		{
+			"command": "set_mark",
+			"keys":
+			[
+				"super+space"
+			]
+		},
+		{
+			"command": "select_to_mark",
+			"keys":
+			[
+				"super+a"
+			]
+		},
+		{
+			"command": "delete_to_mark",
+			"keys":
+			[
+				"super+w"
+			]
+		},
+		{
+			"command": "swap_with_mark",
+			"keys":
+			[
+				"super+x"
+			]
+		},
+		{
+			"args":
+			{
+				"name": "mark"
+			},
+			"command": "clear_bookmarks",
+			"keys":
+			[
+				"super+g"
+			]
+		},
+		"Markdown Extended",
+		"SCSS",
+		"Emmet",
+		"Goto-CSS-Declaration",
+		"ColorPicker",
+		"CSS Extended Completions",
+		"BracketHighlighter",
+		"Theme - Spacegray",
+		"Color Highlighter",
+		"Sass",
+		"SublimeCodeIntel",
+		"GitGutter",
+		"SCSS Snippets",
+		"SASS Snippets",
+		"LESS",
+		"All Autocomplete",
+		"Alignment",
+		"CSS3",
+		"Autoprefixer",
+		"SideBarEnhancements",
+		"Package Control"
+	],
+	"show_open_files": true,
+	"tab_size": 2,
+	"theme": "Spacegray Eighties.sublime-theme",
+	"word_wrap": true
+}

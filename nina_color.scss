@@ -1,0 +1,65 @@
+//my color sheme in sublime text
+
+@mixin syntaxHighlight{
+	/* base on the tomorrow night eighties */
+	//http://tmtheme-editor.herokuapp.com/#/theme/Tomorrow-Night-Eighties
+	$background: #2D2D2D;//就是這裡的底色啦
+	$selection: #515151; //字被圈選的顏色
+	$invisibles: #6A6A6A; //？
+	$command: #999999;
+	$foreground: #CCCCCC;
+
+	$red: #F2777A;
+	/* Name:Variable, String Link, Tag Name*/
+
+	$orange: #F99157;
+	/*Name:Number, Constant, Function Argument, Tag Attribute, Embedded */
+
+	$yellow: #FFCC66;
+	/* Name: Class, Support */
+
+	$green: #99CC99;
+	/* String, Symbols, Inherited Class, Markup Heading */
+
+	$LightBlue:#66CCCC; 
+	/* Operator, Misc */
+
+	$Blue: #6699CC;
+	/* Function, Special Method, Block Level */
+
+	//以下是反白
+	-webkit;
+	$error:#F2777A; //front:#CDCDCD;
+	/*Invalid */
+	$blue: #99CCCC; //不知道用在哪裡
+	/* Separator */
+		$pink:#CC99CC;
+	/* Keyword, Storage */
+
+}
+
+
+@mixin GitGutter {
+	$delete: #F92672;
+	$insert: #A6E22E;
+	$change: #967EFB;
+	$ignored: #565656;
+
+	
+}
+
+@mixin Bracket{
+
+
+
+}
+
+
+
+
+
+
+
+
+
+
